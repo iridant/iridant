@@ -10,20 +10,25 @@
     </a>
 
 ### Languages
-[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/iridant)
-[![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/iridant)
-[![Node.js](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=nodedotjs)](https://github.com/iridant)
+![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=)
+![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label=)
+![Node.js](https://img.shields.io/static/v1?style=for-the-badge&message=Node.js&color=339933&logo=Node.js&logoColor=FFFFFF&label=)
+![C++](https://img.shields.io/static/v1?style=for-the-badge&message=C%2B%2B&color=00599C&logo=C%2B%2B&logoColor=FFFFFF&label=)
 
 ### Technologies & Frameworks
-[![Express](https://img.shields.io/badge/express-black?style=for-the-badge&logo=express)](https://github.com/iridant)
-[![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/iridant)
-[![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/iridant)
-[![CSS](https://img.shields.io/badge/css-black?style=for-the-badge&logo=css3)](https://github.com/iridant)
-[![Serverless](https://img.shields.io/badge/serverless-black?style=for-the-badge&logo=serverless)](https://github.com/iridant)<br>
-[![Amazon S3](https://img.shields.io/badge/AWS%20S3-black?style=for-the-badge&logo=amazons3)](https://github.com/iridant)
-[![Amazon CloudWatch](https://img.shields.io/badge/AWS%20CloudWatch-black?style=for-the-badge&logo=amazoncloudwatch)](https://github.com/iridant)
-[![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-black?style=for-the-badge&logo=awslambda)](https://github.com/iridant)
-[![Netlify](https://img.shields.io/badge/Netlify-black?style=for-the-badge&logo=netlify)](https://github.com/iridant)
+[![Express](https://img.shields.io/badge/express.js-black?style=for-the-badge&logo=express)](https://github.com/iridant)
+[![React](https://img.shields.io/static/v1?style=for-the-badge&message=React&color=222222&logo=React&logoColor=61DAFB&label=)](https://github.com/iridant)
+![HTML5](https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=E34F26&logo=HTML5&logoColor=FFFFFF&label=)
+![CSS3](https://img.shields.io/static/v1?style=for-the-badge&message=CSS&color=1572B6&logo=CSS3&logoColor=FFFFFF&label=)
+![Serverless](https://img.shields.io/static/v1?style=for-the-badge&message=Serverless&color=FD5750&logo=Serverless&logoColor=FFFFFF&label=)<br>
+![Amazon S3](https://img.shields.io/static/v1?style=for-the-badge&message=AWS+S3&color=569A31&logo=Amazon+S3&logoColor=FFFFFF&label=)
+![Amazon CloudWatch](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+CloudWatch&color=FF4F8B&logo=Amazon+CloudWatch&logoColor=FFFFFF&label=)
+![AWS Lambda](https://img.shields.io/static/v1?style=for-the-badge&message=AWS+Lambda&color=222222&logo=AWS+Lambda&logoColor=FF9900&label=)
+![Netlify](https://img.shields.io/static/v1?style=for-the-badge&message=Netlify&color=222222&logo=Netlify&logoColor=00C7B7&label=)<br>
+![Visual Studio](https://img.shields.io/static/v1?style=for-the-badge&message=Visual+Studio&color=5C2D91&logo=Visual+Studio&logoColor=FFFFFF&label=)
+![Visual Studio Code](https://img.shields.io/static/v1?style=for-the-badge&message=VSCode&color=007ACC&logo=Visual+Studio+Code&logoColor=FFFFFF&label=)
+![VirtualBox](https://img.shields.io/static/v1?style=for-the-badge&message=VirtualBox&color=183A61&logo=VirtualBox&logoColor=FFFFFF&label=)
+![NMAP](https://img.shields.io/static/v1?style=for-the-badge&message=nmap&color=1572B6&logo=prdotco&logoColor=FFFFFF&label=)
 
 ### OS
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=archlinux)](https://github.com/iridant)
