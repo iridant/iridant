@@ -10,17 +10,22 @@
     </a>
 
 ### Languages
-[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/wervlad)
-[![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/wervlad)
+[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/iridant)
+[![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/iridant)
 
 ### Technologies & Frameworks
 [![Express](https://img.shields.io/badge/express-black?style=for-the-badge&logo=express)](https://github.com/iridant)
 [![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/iridant)
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/iridant)
-[![CSS3](https://img.shields.io/badge/css-black?style=for-the-badge&logo=css)](https://github.com/iridant)
+[![CSS](https://img.shields.io/badge/css-black?style=for-the-badge&logo=css3)](https://github.com/iridant)
+[![Serverless](https://img.shields.io/badge/serverless-black?style=for-the-badge&logo=serverless)](https://github.com/iridant)<br>
+[![Amazon S3](https://img.shields.io/badge/AWS%20S3-black?style=for-the-badge&logo=amazons3)](https://github.com/iridant)
+[![Amazon CloudWatch](https://img.shields.io/badge/AWS%20CloudWatch-black?style=for-the-badge&logo=amazoncloudwatch)](https://github.com/iridant)
+[![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-black?style=for-the-badge&logo=awslambda)](https://github.com/iridant)
+[![Netlify](https://img.shields.io/badge/Netlify-black?style=for-the-badge&logo=netlify)](https://github.com/iridant)
 
 ### OS
-[![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/iridant)
+[![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=archlinux)](https://github.com/iridant)
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/iridant)
 
 <details>
