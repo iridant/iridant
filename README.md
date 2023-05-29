@@ -16,7 +16,7 @@
 ![C++](https://img.shields.io/static/v1?style=for-the-badge&message=C%2B%2B&color=00599C&logo=C%2B%2B&logoColor=FFFFFF&label=)
 
 ### Technologies & Frameworks
-[![Express](https://img.shields.io/badge/express.js-black?style=for-the-badge&logo=express)](https://github.com/iridant)
+[![Express](https://img.shields.io/badge/express.js-black?style=for-the-badge&logo=JavaScript)](https://github.com/iridant)
 [![React](https://img.shields.io/static/v1?style=for-the-badge&message=React&color=222222&logo=React&logoColor=61DAFB&label=)](https://github.com/iridant)
 [![HTML5](https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=E34F26&logo=HTML5&logoColor=FFFFFF&label=)](https://github.com/iridant)
 [![CSS3](https://img.shields.io/static/v1?style=for-the-badge&message=CSS&color=1572B6&logo=CSS3&logoColor=FFFFFF&label=)](https://github.com/iridant)
