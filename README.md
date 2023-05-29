@@ -12,6 +12,7 @@
 ### Languages
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/iridant)
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/iridant)
+[![Node.js](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=nodedotjs)](https://github.com/iridant)
 
 ### Technologies & Frameworks
 [![Express](https://img.shields.io/badge/express-black?style=for-the-badge&logo=express)](https://github.com/iridant)
