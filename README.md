@@ -3,7 +3,7 @@
 <p align="center">
     <i>
         I'm Owen.<br>
-        A developer.<br>
+        A full-stack developer.<br>
     </i><br>
     <a href="https://www.linkedin.com/in/odevie">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
