@@ -2,7 +2,7 @@
 
 <p align="center">
     <i>
-        I'm Owen.<br>
+        I'm Iridant.<br>
         A full-stack developer.<br>
     </i><br>
     <a href="https://www.linkedin.com/in/odevie">
